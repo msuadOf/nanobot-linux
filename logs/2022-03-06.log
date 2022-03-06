@@ -1,0 +1,25 @@
+[2022-03-06 02:59:41] [WARNING]: lambda 初始化失败: Post "http:///runtime/init/ready": http: no Host in request URL 
+[2022-03-06 02:59:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 02:59:56] [WARNING]: 警告: 长消息响应延迟为 10051ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2022-03-06 02:59:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:00:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:00:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:00:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:00:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:00:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:676/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:676: connect: connection refused 
+[2022-03-06 03:01:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:02:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:02:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:03:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:03:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:04:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:04:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:05:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:05:34] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:06:04] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2022-03-06 03:06:15] [ERROR]: Protocol -> unexpected disconnect: EOF 
