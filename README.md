@@ -9,4 +9,5 @@
 # nanobot
 
 使用nonebot2和gohttp部署的一个小机器人，开箱即用
+<br>
 ps.请在使用前配置好qq号
